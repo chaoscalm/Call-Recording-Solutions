@@ -2,7 +2,7 @@
 
 Different approaches for Call Recording on Android
 
-# Signed roms and unsigned roms
+# Personal signature and public signature
 
 The first main difference we have is between signed roms either by LineageOS or by a dev that is making personal builds signed by self.
 
